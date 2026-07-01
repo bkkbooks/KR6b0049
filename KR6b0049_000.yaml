@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6b0049/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛所行讚
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T04/T04n0192.xml
+    old_id: T04n0192
+hash: sha256:cbc9256ec3dcc7c75044f2772a411540596047815b09cba4d683437bd072d336
